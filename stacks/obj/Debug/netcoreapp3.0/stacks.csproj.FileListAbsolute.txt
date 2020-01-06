@@ -1,0 +1,11 @@
+D:\Will's PC\C# Projects\stacks\bin\Debug\netcoreapp3.0\stacks.exe
+D:\Will's PC\C# Projects\stacks\bin\Debug\netcoreapp3.0\stacks.deps.json
+D:\Will's PC\C# Projects\stacks\bin\Debug\netcoreapp3.0\stacks.runtimeconfig.json
+D:\Will's PC\C# Projects\stacks\bin\Debug\netcoreapp3.0\stacks.runtimeconfig.dev.json
+D:\Will's PC\C# Projects\stacks\bin\Debug\netcoreapp3.0\stacks.dll
+D:\Will's PC\C# Projects\stacks\bin\Debug\netcoreapp3.0\stacks.pdb
+D:\Will's PC\C# Projects\stacks\obj\Debug\netcoreapp3.0\stacks.csprojAssemblyReference.cache
+D:\Will's PC\C# Projects\stacks\obj\Debug\netcoreapp3.0\stacks.AssemblyInfoInputs.cache
+D:\Will's PC\C# Projects\stacks\obj\Debug\netcoreapp3.0\stacks.AssemblyInfo.cs
+D:\Will's PC\C# Projects\stacks\obj\Debug\netcoreapp3.0\stacks.dll
+D:\Will's PC\C# Projects\stacks\obj\Debug\netcoreapp3.0\stacks.pdb
